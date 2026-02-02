@@ -1,5 +1,5 @@
-# 🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW)  
-# 💻 Apasionada por el desarrollo web, el diseño y la experiencia de usuario  
+🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW)  
+💻 Apasionada por el desarrollo web, el diseño y la experiencia de usuario  
 
 [Ver Proyectos ](https://github.com/YaniraCue?tab=repositories)
 
