@@ -36,4 +36,4 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 📫 *Contacto:*
-* 💼 [Mi Perfil de LinkedIn](www.linkedin.com/in/yanira-cue-9b59672b5) | [Envíame un correo](mailto:yanirabdullah@gmail.com?subject=Contacto%20desde%20GitHub)
+* 💼 [Mi Perfil de LinkedIn](https://www.linkedin.com/in/yanira-cue-9b59672b5) | [Envíame un correo](mailto:yanirabdullah@gmail.com?subject=Contacto%20desde%20GitHub)
